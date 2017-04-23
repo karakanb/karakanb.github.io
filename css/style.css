@@ -7,7 +7,7 @@ body {
     font-size: 1.5vw;
     background-color: #171719;
 }
-.center {
+center {
     position: relative;
     top: 45%;
 }
