@@ -3,9 +3,9 @@ body {
   height: 100vh;
   overflow: hidden;
   font-family: 'Inconsolata', monospace;
-  color: white;
+  color: #5a5a5a;
   font-size: 1.5vw;
-  background-color: #171719;
+  background-color: #d8d8d8;
 }
 
 .center {
@@ -15,12 +15,13 @@ body {
 }
 
 a {
-  color: white;
   text-decoration: none;
+  color: #5a5a5a;
 }
 
 a:hover {
   color: #de4847;
+  cursor: pointer;
 }
 
 hr {
